@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"vr_standard.vfx"
+	"TextureColor"		"materials/models\kakariko/node_016ba2c4_color.png"
+}

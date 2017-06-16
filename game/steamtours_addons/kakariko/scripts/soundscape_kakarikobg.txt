@@ -1,0 +1,27 @@
+"soundscape_kakarikobg"
+{
+                "playlooping"
+                {
+                                "volume"        "0.25"
+                                "pitch"         "100"
+                                "wave"          "sounds/kakarikobg.vsnd"
+                }
+}
+"soundscape_graveyardbg"
+{
+                "playlooping"
+                {
+                                "volume"        "0.25"
+                                "pitch"         "100"
+                                "wave"          "sounds/ruinsbg.vsnd"
+                }
+}
+"soundscape_windmillbg"
+{
+                "playlooping"
+                {
+                                "volume"        "0.25"
+                                "pitch"         "100"
+                                "wave"          "sounds/windmillbg.vsnd"
+                }
+}

@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"vr_standard.vfx"
+	"TextureColor"		"materials/models\kakariko/grvs_00130a49fb_color.png"
+}

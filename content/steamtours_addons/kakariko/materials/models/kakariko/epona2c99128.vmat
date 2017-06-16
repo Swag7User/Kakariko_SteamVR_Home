@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"vr_standard.vfx"
+	"TextureColor"		"materials/models\kakariko/epona2c99128_color.png"
+}
